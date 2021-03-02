@@ -1,0 +1,1 @@
+del /s /q c:\Users\Baichuan\Documents\GitHub\Code*.exe
